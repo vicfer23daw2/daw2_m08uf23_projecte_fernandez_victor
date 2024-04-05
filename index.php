@@ -12,7 +12,7 @@
         <h3>Autor: vicfer23daw2</h3>
         <h3>Correu: 442816.clot@fje.edu</h3>
         <h3>Github: <a href="https://github.com/vicfer23daw2/daw2_m08uf23_projecte_fernandez_victor">github.com/vicfer23daw2/daw2_m08uf23_projecte_fernandez_victor</a></h3>
-        <a href="http://zend-vifemo.fjeclot.net/m08uf23/login.php">Inicia sessió</a>
+        <a href="https://zends-vifemo/m08uf23/login.php">Inicia sessió</a>
     </div>
 </body>
 </html>

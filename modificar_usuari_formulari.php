@@ -60,7 +60,7 @@
             <br>
             <input type="submit" value="Modificar Atribut" class="btn">
         </form>
-        <a href="http://zend-vifemo.fjeclot.net/m08uf23/menu.php">Torna al menu</a>
+        <a href="https://zends-vifemo/m08uf23/menu.php">Torna al menu</a>
     </div>
 </body>
 </html>

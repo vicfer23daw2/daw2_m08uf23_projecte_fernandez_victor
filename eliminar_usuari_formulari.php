@@ -19,7 +19,7 @@
             
             <input type="submit" value="Eliminar Usuari" class="btn">
         </form>
-        <a href="http://zend-vifemo.fjeclot.net/m08uf23/menu.php">Torna al menu</a>
+        <a href="https://zends-vifemo/m08uf23/menu.php">Torna al menu</a>
     </div>
 </body>
 </html>

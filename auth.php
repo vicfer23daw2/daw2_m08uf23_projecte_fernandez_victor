@@ -30,6 +30,6 @@ if ($_POST['cts'] && $_POST['adm']){
 		</title>
 	</head>
 	<body>
-		<a href="http://zend-vifemo.fjeclot.net/m08uf23/index.php">Torna a la pàgina inicial</a>
+		<a href="https://zends-vifemo/m08uf23/index.php">Torna a la pàgina inicial</a>
 	</body>
 </html>

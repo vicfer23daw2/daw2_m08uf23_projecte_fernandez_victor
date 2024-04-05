@@ -41,6 +41,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST['_method'] == "PUT") {
     echo "<b>Atribut '$atribut' de l'usuari '$uid' modificat:</b><br>";
     echo "Valor antic: $valor_actual<br>";
     echo "Nou valor: $nou_valor<br>";
-    echo '<a href="http://zend-vifemo.fjeclot.net/m08uf23/modificar_usuari_formulari.php">Enrere</a>';
+    echo '<a href="https://zends-vifemo/m08uf23/modificar_usuari_formulari.php">Enrere</a>';
 }
 ?>

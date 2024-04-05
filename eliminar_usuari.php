@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST['_method'] == "DELETE") {
     try {
         $ldap->delete($dn);
         echo "<b>Entrada eliminada</b><br>";
-        echo '<a href="http://zend-vifemo.fjeclot.net/m08uf23/menu.php">Torna al menú</a>';
+        echo '<a href="https://zends-vifemo/m08uf23/menu.php">Torna al menú</a>';
     } catch (Exception $e) {
         echo "<b>Error: " . $e->getMessage() . "</b><br>";
     }

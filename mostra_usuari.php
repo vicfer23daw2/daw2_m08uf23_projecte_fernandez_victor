@@ -40,7 +40,7 @@ if (isset($_GET['usr']) && isset($_GET['ou'])){
             <input type="submit" class="btn" value="Mostra Usuari"/>
             <input type="reset" class="btn" value="Neteja"/>
         </form>
-        <a href="http://zend-vifemo.fjeclot.net/m08uf23/menu.php">Torna al menu</a>
+        <a href="https://zends-vifemo/m08uf23/menu.php">Torna al menu</a>
     </div>
 </body>
 </html>

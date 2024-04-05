@@ -59,7 +59,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $dn = "uid=$uid,ou=$unorg,$domini";
     if ($ldap->add($dn, $nova_entrada)) {
         echo "Usuari creat amb èxit <br>";
-        echo '<a href="http://zend-vifemo.fjeclot.net/m08uf23/menu.php">Torna al menú</a>';
+        echo '<a href="https://zends-vifemo/m08uf23/menu.php">Torna al menú</a>';
     } else {
         echo "Error en crear l'usuari";
     };
