@@ -8,7 +8,9 @@
 <body>
     <div class="container">
         <h2>Modificació d'Atributs d'Usuari LDAP</h2>
-        <form method="post" action="modificar_usuari.php">
+        <form method="POST" action="modificar_usuari.php">
+        	<input type="hidden" name="_method" value="PUT">
+        
             <label for="uid">UID de l'Usuari:</label><br>
             <input type="text" id="uid" name="uid" required><br>
             

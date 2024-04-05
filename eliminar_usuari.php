@@ -4,7 +4,7 @@ use Laminas\Ldap\Ldap;
 
 ini_set('display_errors', 0);
 
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST['_method'] == "DELETE") {
     # Recoger los datos del formulario
     $uid = $_POST['uid'];
     $unorg = $_POST['unorg'];

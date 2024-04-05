@@ -9,6 +9,8 @@
     <div class="container">
         <h2>Eliminar Usuari LDAP</h2>
         <form method="post" action="eliminar_usuari.php">
+        	<input type="hidden" name="_method" value="DELETE">
+        	
             <label for="uid">UID de l'Usuari a Eliminar:</label><br>
             <input type="text" id="uid" name="uid" required><br>
             
